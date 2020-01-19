@@ -1,4 +1,4 @@
-PublicLab.org
+PublicLab.org test branch
 ======
 
 [![Code of Conduct](https://img.shields.io/badge/code-of%20conduct-green.svg)](https://publiclab.org/conduct)
@@ -108,7 +108,7 @@ For information on how to install for use with the cloud environment, please see
 
 ### Windows Installation
 
-We recommend you either work in a virtual environment, or on a dual booted system to avoid dependencies issues and also Unix system works smoother with Ruby and Rails. This will not only benefit you now for plots2, but also in future while working on other Ruby projects, a Linux or Mac based OS will make your development so much smoother. 
+We recommend you either work in a virtual environment, or on a dual booted system to avoid dependencies issues and also Unix system works smoother with Ruby and Rails. This will not only benefit you now for plots2, but also in future while working on other Ruby projects, a Linux or Mac based OS will make your development so much smoother.
 1. [Dual Booting](https://www.tecmint.com/install-ubuntu-alongside-with-windows-dual-boot/amp/), [option2](https://askubuntu.com/questions/1031993/how-to-install-ubuntu-18-04-alongside-windows-10), [video guide](https://www.youtube.com/watch?v=qNeJvujdB-0&fbclid=IwAR0APhs89jlNR_ENKbSwrp6TI6P-wxlx-a0My9XBvPNAfwtADZaAXqcKtP4)
 2. [Setting up a linux virtual env](https://itsfoss.com/install-linux-in-virtualbox/)
 
@@ -137,7 +137,7 @@ Secure connection is needed for OAuth authentication etc.
 
 Once you complete the installation, use any of these credentials to login in to the PL website in your local development / testing environment to gain additional permissions for only logged in users. Each one comes with its own set of permissions, but besides that the experience across them is pretty much the same.
 
-**username**: `admin`, `moderator`, or `user` 
+**username**: `admin`, `moderator`, or `user`
 
 **password**: `password`
 
@@ -210,7 +210,7 @@ Help improve Public Lab software!
 * Try out some supportive tasks https://github.com/publiclab/plots2/wiki/Supportive-Tasks
 * Get involved with our weekly community check-ins. For guidelines: [https://github.com/publiclab/plots2/tree/master/doc/CHECKINS.md
 ](https://github.com/publiclab/plots2/tree/master/doc/CHECKINS.md)
-* You can help us by opening first timers issues or fto. The template for opening an issue can be found https://docs.google.com/document/d/1dO-CAgModEGM5cOaMmcnBh2pEON0hv_rH3P2ou2r1eE/edit 
+* You can help us by opening first timers issues or fto. The template for opening an issue can be found https://docs.google.com/document/d/1dO-CAgModEGM5cOaMmcnBh2pEON0hv_rH3P2ou2r1eE/edit
 
 ## First Time?
 
@@ -218,7 +218,7 @@ New to open source/free software? Here is a selection of issues we've made **esp
 
 [Here](https://publiclab.org/notes/warren/11-22-2017/use-git-and-github-to-contribute-and-improve-public-lab-software) is a link to our Git workflow.
 
-## Let the code be with you. 
+## Let the code be with you.
 ### Happy opensourcing. :smile:
 
 <hr>
